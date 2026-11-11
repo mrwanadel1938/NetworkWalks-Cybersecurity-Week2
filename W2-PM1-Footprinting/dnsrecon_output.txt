@@ -1,0 +1,6 @@
+2026-11-10 INFO Starting enumeration for domain: networkwalks.com
+2026-11-10 INFO NS ://hostgator.com 50.87.144.87
+2026-11-10 INFO NS ://hostgator.com 192.232.216.131
+2026-11-10 INFO MX ://networkwalks.com 192.232.216.135
+2026-11-10 INFO A networkwalks.com 192.232.216.135
+2026-11-10 INFO Completed enumeration for domain: networkwalks.com
